@@ -1,0 +1,6 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(391,5): warning MSB8028: промежуточный каталог (Debug\) содержит файлы, которые используются совместно с другим проектом (Игра.vcxproj).  Это может привести к ошибкам очистки и перестроения.
+  Source.cpp
+d:\repos\lessons\игра\игра\queen.h(15): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+d:\repos\lessons\игра\игра\queen.h(18): warning C4244: аргумент: преобразование "double" в "char", возможна потеря данных
+d:\repos\lessons\игра\игра\source.cpp(83): warning C4018: <: несоответствие типов со знаком и без знака
+  Игра.vcxproj -> D:\repos\Lessons\Игра\Debug\Game.exe
